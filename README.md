@@ -12,7 +12,7 @@ Before you begin, ensure you have the following:
 
 ## Admin Setup
 
-**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/mrExplorist/store-dash.git) configured and running.**
+**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/mrExplorist/store-dash.git) configured and running locally.**
 
 ## Getting Started
 
