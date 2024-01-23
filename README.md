@@ -131,5 +131,3 @@ The dashboard is highly customizable, allowing you to adapt it to your specific 
 If you'd like to contribute to this project, please follow standard open-source contribution guidelines, such as opening issues, submitting pull requests, and adhering to the code of conduct.
 
 ---
-
-Please make sure to customize this README further if needed, and keep it up to date with any changes or additional details that developers may need when working with your project. A well-documented README is essential for making your project accessible and user-friendly.
